@@ -22,32 +22,16 @@
 
 ---
 
-### ⚡ Profile Overview
+### ⚡ Profile Focus
 
-```typescript
-const shivani = {
-  pronouns: "she / her",
-  status: "Undergrad in B.Tech AI & Data Science @ Kongu Engineering College",
-  
-  // My primary areas of coding and research
-  domains: {
-    computerVision: ["Skin Cancer Detection using CNNs (ResNet-50, DenseNet-201)"],
-    predictiveAnalytics: ["Crop Yield Forecasting via Random Forest & SVM"],
-    fullStackWeb: ["MERN Stack (React, Node, Express, MongoDB) with JWT Auth"]
-  },
-
-  // My verified certifications
-  certifications: [
-    "Oracle Certified Professional: Java SE 17 Developer ☕",
-    "Oracle Cloud Infrastructure Certified AI Foundations Associate ☁️"
-  ],
-
-  // What I am currently building & exploring
-  currentResearch: "Agentic AI & autonomous workflows",
-  
-  askMeAbout: ["Deep Learning models", "React frontends", "Database schemas", "Coffee and clean code"]
-};
-```
+> 🎓 **Academic Journey**
+> Actively pursuing my B.Tech in Artificial Intelligence & Data Science, maintaining a strong focus on advanced computation, machine learning theory, and modern software design patterns.
+> 
+> 🧠 **Research Interests**
+> Deep Learning architectures, Neural Networks, Computer Vision & Agentic AI workflows.
+> 
+> 💻 **Full-Stack Engineering**
+> Building end-to-end, highly scalable web solutions using modern technology stacks (MERN) with secure session handling.
 
 ---
 
@@ -60,32 +44,36 @@ const shivani = {
 
 ### 🛠️ Tech Stack & Tooling
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-with-font.svg" alt="java" width="40" height="40"/>&nbsp;
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;
-  <!-- Backend & DB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-  <!-- ML & Data -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>&nbsp;
-  <!-- Dev Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-</p>
+<div align="center">
+
+  **Programming Languages**
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/>
+
+  **Frontend & Backend Web**
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
+
+  **AI, Machine Learning & Tools**
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="35" height="35"/>
+</div>
 
 ---
 
@@ -96,31 +84,31 @@ const shivani = {
     <td width="50%" valign="top">
       <h4>🩺 Skin Cancer Detection</h4>
       <p>
-        <a href="https://github.com/ShivuXCode" target="_blank">
+        <a href="https://github.com/ShivuXCode/skin-cancer-classification" target="_blank">
           <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
         </a>
       </p>
-      <p>Developed skin lesion classifier using ISIC and HAM10000 datasets, implementing ResNet-50 and DenseNet-201 CNN architectures with advanced image preprocessing.</p>
+      <p>Developed a high-accuracy skin lesion classifier applying image augmentation, normalization, and advanced CNN architectures (ResNet-50, DenseNet-201) on ISIC and HAM10000 datasets.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="22" height="22"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="22" height="22"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="22" height="22"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="22" height="22"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="22" height="22"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>🌾 Crop Yield Prediction</h4>
       <p>
-        <a href="https://github.com/ShivuXCode" target="_blank">
+        <a href="https://github.com/SriDharshnna/Crop_Yield_Prediction" target="_blank">
           <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
         </a>
       </p>
-      <p>Developed ML models to predict crop yield based on weather and soil datasets, comparing Random Forest Regression and Support Vector Machines (SVM).</p>
+      <p>Developed machine learning models to forecast agricultural yield using historical soil properties and weather parameters, comparing Random Forest and SVM regressors.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-        <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="22" height="22"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="22" height="22"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="22" height="22"/>
       </p>
     </td>
   </tr>
@@ -128,30 +116,30 @@ const shivani = {
     <td width="50%" valign="top">
       <h4>🏥 Hospital Management System</h4>
       <p>
-        <a href="https://github.com/ShivuXCode" target="_blank">
+        <a href="https://github.com/ShivuXCode/Hospital-Management-System" target="_blank">
           <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
         </a>
       </p>
-      <p>A full-stack workflow application with role-based dashboards, appointment scheduling, secure JWT-based authentication, and RESTful API endpoints.</p>
+      <p>A full-stack workflow portal for managing patient records and appointments with role-based accessibility, REST APIs, and JWT-secured authorization routes.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="22" height="22"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="22" height="22"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="22" height="22"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="22" height="22"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 Autonomous Agent Workflows</h4>
+      <h4>🧠 Parkinson's Disease Prediction</h4>
       <p>
-        <a href="https://github.com/ShivuXCode" target="_blank">
+        <a href="https://github.com/ShivuXCode/parkinson-disease-prediction" target="_blank">
           <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
         </a>
       </p>
-      <p>Researching and building autonomous multi-agent networks that collaborate dynamically to solve complex automation tasks.</p>
+      <p>Designed predictive diagnostic models using clinical measurements and patient gait datasets to classification-detect early markers of Parkinson's disease.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="22" height="22"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="22" height="22"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="22" height="22"/>
       </p>
     </td>
   </tr>
