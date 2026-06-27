@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shivanisri-murugesan" target="_blank">
+  <a href="https://www.linkedin.com/in/shivanisrimurugesan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mshivanisri786@gmail.com">
@@ -48,7 +48,7 @@
 
 ---
 
-### 📊 Coding Dashboards
+### 📊 Coding Dashboards & Profiles
 
 <div align="center">
   <table border="0">
@@ -65,7 +65,13 @@
 
 <div align="center">
   <br />
-  <img src="https://leetcard.jacoblin.cool/ShivuXCode?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/shivanisri786/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/shivanisri786?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
+  </a>
+  <br /><br />
+  <a href="https://codeforces.com/profile/shivanisrim" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=shivanisrim&theme=dark" alt="Codeforces Stats" />
+  </a>
 </div>
 
 <br />
