@@ -1,7 +1,7 @@
 # Hi there, I'm Shivani Sri M! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=66FCF1&width=435&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=66FCF1&width=450&lines=ML+Engineer;Frontend+Developer;Deep+Learning+Enthusiast;Software+Engineer;AI+Engineer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,115 +16,96 @@
   </a>
 </p>
 
----
-
-### 💫 About Me
-
-I am a motivated **Artificial Intelligence and Data Science** student at **Kongu Engineering College** (Class of 2027) with hands-on experience in full-stack web development and machine learning. I love building responsive, scalable applications and designing AI-driven solutions to solve real-world problems.
-
-- 🎓 **Education:** Pursuing B.Tech in AI & Data Science (Current CGPA: **8.40**)
-- 📍 **Location:** Erode, Tamil Nadu, India
-- ✉️ **Contact:** [mshivanisri786@gmail.com](mailto:mshivanisri786@gmail.com)
-- 🚀 **Core Interests:** Deep Learning, Computer Vision, Frontend Engineering, Full-Stack Development
+<p align="center">
+  <em>"Mapping neural networks, designing intelligent systems, and crafting responsive web interfaces that bring AI to life."</em>
+</p>
 
 ---
 
-### 🛠️ Technical Stack & Skills
+### 🏆 Achievements & Badges
 
-<table>
-  <tr>
-    <td align="center" width="20%"><strong>Languages</strong></td>
-    <td width="80%">
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend & DB</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/mysql-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>AI & ML</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-      <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools & Platforms</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />
-      <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
-      <img src="https://img.shields.io/badge/GitHub_Copilot-8C4FFF?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShivuXCode&theme=tokyonight&no-bg=true&margin-w=15" alt="ShivuXCode Trophies" />
+  </a>
+</div>
 
 ---
 
-### 📂 Featured Projects
+### 🧠 The AI & Dev Stack
 
-#### 🩺 **Skin Cancer Detection**
-*Developed a high-accuracy skin lesion classifier utilizing advanced deep learning architectures.*
-- **Tech Stack:** Python, TensorFlow, Keras, ResNet-50, DenseNet-201, LeNet, NumPy, Pandas
-- **Key Actions:** Built and compared multiple CNN backbones; applied image augmentation and normalization on ISIC & HAM10000 datasets to improve classification metrics.
-- 🔗 [View Project Repository](https://github.com/ShivuXCode)
+<div align="center">
+  
+  #### 💻 **Languages & Core**
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" /></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" /></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" /></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" /></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" /></code>
 
-#### 🌾 **Crop Yield Prediction**
-*Enabled data-driven agricultural forecasting through predictive modeling.*
-- **Tech Stack:** Python, Scikit-Learn, SVM, Random Forest Regression, Pandas, NumPy
-- **Key Actions:** Performed extensive exploratory data analysis (EDA), data cleaning, and feature engineering on soil/weather datasets. Compared SVM and Random Forest models to identify the most accurate predictor.
-- 🔗 [View Project Repository](https://github.com/ShivuXCode)
+  #### 🤖 **Machine Learning & Deep Learning**
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" /></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/5b369cc5910edacc047240c49747c3e10fc3c1cf/topics/keras/keras.png" alt="Keras" /></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="Scikit-Learn" /></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" alt="OpenCV" /></code>
 
-#### 🏥 **Hospital Management System**
-*Built a modern, role-based full-stack application for managing healthcare scheduling.*
-- **Tech Stack:** React.js, JavaScript, Node.js, MongoDB, JWT
-- **Key Actions:** Designed RESTful APIs, implemented secure authentication and token-based authorization (JWT), and created intuitive dashboards for administrators, doctors, and patients.
-- 🔗 [View Project Repository](https://github.com/ShivuXCode)
+  #### 🌐 **Web & Database**
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" /></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" /></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" /></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" /></code>
 
----
-
-### 🏅 Certifications & Achievements
-
-- **Certifications:**
-  - ☕ **Oracle Certified Professional:** Java SE 17 Developer
-  - ☁️ **Oracle Cloud Infrastructure:** 2025 Certified AI Foundations Associate
-- **Achievements:**
-  - 🥇 **First Place** – CSI Coding Contest (Computer Society of India)
-  - 🥉 **Third Place** – Frontend Design Competition (AI Association)
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Projects Playground
+
+<details>
+  <summary><strong>🩺 Deep Learning: Skin Cancer Detection</strong></summary>
+  <br />
+  <blockquote>
+    Classifying dermatological lesions using state-of-the-art neural architectures.
+  </blockquote>
+  
+  - **The Tech:** Python, TensorFlow, Keras, ResNet-50, DenseNet-201, LeNet, OpenCV
+  - **The Magic:** Applied image augmentation and normalization on large-scale datasets (ISIC & HAM10000) to optimize feature extraction and model reliability.
+</details>
+
+<details>
+  <summary><strong>🌾 Predictive Analytics: Crop Yield Prediction</strong></summary>
+  <br />
+  <blockquote>
+    Bridging agriculture and AI to enhance regional food security.
+  </blockquote>
+
+  - **The Tech:** Python, Scikit-Learn, Random Forest, SVM, Pandas, NumPy
+  - **The Magic:** Designed data pre-processing and feature analysis strategies to evaluate complex weather and soil datasets for yield forecasting.
+</details>
+
+<details>
+  <summary><strong>🏥 Web Dev: Hospital Management System</strong></summary>
+  <br />
+  <blockquote>
+    A robust, full-stack workflow system for healthcare resource management.
+  </blockquote>
+
+  - **The Tech:** React.js, Node.js, MongoDB, JWT, REST APIs
+  - **The Magic:** Integrated secure role-based access control, scheduling modules, and API route guards for dynamic patient/doctor portal interactions.
+</details>
+
+---
+
+### 📈 Stats Dashboard
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ShivuXCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shivani's GitHub Stats" height="195px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ShivuXCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shivani's GitHub Stats" height="190px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivuXCode&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Shivani's Top Languages" height="195px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivuXCode&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Shivani's Top Languages" height="190px" />
       </td>
     </tr>
   </table>
