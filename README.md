@@ -48,7 +48,21 @@
 
 ---
 
-### 📊 Coding Dashboards & Profiles
+### 💻 Competitive Programming & Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/shivanisri786/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-shivanisri786-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/shivanisrim" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-shivanisrim-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <table border="0">
@@ -61,17 +75,10 @@
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <br />
-  <a href="https://leetcode.com/u/shivanisri786/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/shivanisri786?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
-  </a>
-  <br /><br />
-  <a href="https://codeforces.com/profile/shivanisrim" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=shivanisrim&theme=dark" alt="Codeforces Stats" />
-  </a>
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivuXCode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
 </div>
 
 <br />
