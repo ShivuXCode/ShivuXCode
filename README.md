@@ -1,31 +1,67 @@
-# Hi there, I'm Shivani Sri M! 👋
+# 👋 Hello World! I'm Shivani Sri M! 🚀
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=66FCF1&width=450&lines=ML+Engineer;Frontend+Developer;Deep+Learning+Enthusiast;Software+Engineer;AI+Engineer" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivanisrimurugesan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mshivanisri786@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/ShivuXCode">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <em>"Mapping neural networks, designing intelligent systems, and crafting responsive web interfaces that bring AI to life."</em>
-</p>
+<table border="0">
+  <tr>
+    <td width="70%" valign="top">
+      <h3>🤖 Artificial Intelligence & Data Science Student</h3>
+      <p>🎓 Pursuing B.Tech @ <strong>Kongu Engineering College</strong> (Class of 2027)</p>
+      <p>📍 Erode, Tamil Nadu, India</p>
+      <p>
+        <a href="https://www.linkedin.com/in/shivanisrimurugesan/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="mailto:mshivanisri786@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+        </a>
+        <a href="https://github.com/ShivuXCode">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+    </td>
+    <td width="30%" valign="top" align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/212228493-eb2d15ce-cf9c-4cb7-b3b3-030fd490449a.gif" width="180" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Core Skills & Tech Stack
+### 🚀 A little more about me...
+
+```typescript
+const shivani = {
+  pronouns: "she / her",
+  education: "B.Tech AI & Data Science @ Kongu Engineering College",
+  focusAreas: [
+    "Machine Learning & Deep Learning architectures",
+    "Responsive, interactive frontend design",
+    "Algorithmic problem solving"
+  ],
+  code: ["Python", "JavaScript", "Java", "SQL"],
+  technologies: {
+    mlAndDl: ["TensorFlow", "Keras", "Scikit-Learn", "OpenCV"],
+    webDev: ["React.js", "Node.js", "Express", "MongoDB"]
+  },
+  currentChallenge: "Fine-tuning deep neural networks for computer vision",
+  funFact: "Debugging code at 2 AM is where the real breakthrough happens ☕"
+};
+```
+
+---
+
+### 🏆 Achievements & Milestones
+
+- 🥇 **First Place** – CSI Coding Contest organized by the Computer Society of India (CSI)
+- 🥉 **Third Place** – Frontend Design Competition conducted by the AI Association
+- ☕ **Oracle Certified Professional** – Java SE 17 Developer
+- ☁️ **Oracle Cloud Infrastructure** – 2025 Certified AI Foundations Associate
+
+---
+
+### 🛠️ Tech Stack & Tooling
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
@@ -40,29 +76,13 @@
     <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </marquee>
 </p>
 
 ---
 
-### 💻 Competitive Programming & Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/shivanisri786/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-shivanisri786-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/shivanisrim" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-shivanisrim-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
+### 📊 Coding & Performance Metrics
 
 <div align="center">
   <table border="0">
@@ -75,14 +95,26 @@
       </td>
     </tr>
   </table>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivuXCode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
 </div>
 
-<br />
+---
+
+### 🔗 Let's Connect
 
 <p align="center">
-  <img src="https://komarev.com/normal-badge.png?id=ShivuXCode&color=66FCF1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://leetcode.com/u/shivanisri786/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-shivanisri786-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/shivanisrim" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-shivanisrim-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shivanisrimurugesan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-shivanisrimurugesan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/api?type=waving&color=auto&height=120&section=footer" width="100%" alt="Footer Wave" />
 </p>
